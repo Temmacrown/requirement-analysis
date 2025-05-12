@@ -105,3 +105,5 @@ Well-written acceptance criteria help ensure that all stakeholders have the same
 - The checkout page must include secure payment options (e.g., credit card, PayPal).
 - The system must validate payment information before processing
 https://drive.google.com/file/d/1mwJQbHZESomHpNnrwizLMFjJ0X60uj0p/view?usp=sharing
+https://drive.google.com/file/d/1mwJQbHZESomHpNnrwizLMFjJ0X60uj0p/view?usp=sharing
+https://drive.google.com/file/d/1mwJQbHZESomHpNnrwizLMFjJ0X60uj0p/view?usp=sharing
