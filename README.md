@@ -81,3 +81,26 @@ Non-functional requirements specify the **quality attributes** of the system. Th
 
 **Examples for a Booking Management Project:**
 - The system should be
+## ✅ Acceptance Criteria
+
+**Acceptance Criteria** are a set of predefined conditions that a software product must meet to be accepted by the end user, customer, or other stakeholders. They are used to confirm when a requirement or feature is fully implemented and working as intended.
+
+### 📌 Importance in Requirement Analysis
+
+- **Defines "Done"**: Clearly states what must be true for a feature to be considered complete.
+- **Guides Development and Testing**: Provides developers and QA teams with a shared understanding of expectations.
+- **Improves Clarity**: Eliminates ambiguity in requirements by providing concrete, testable conditions.
+- **Enhances Communication**: Bridges the gap between business needs and technical implementation.
+
+Well-written acceptance criteria help ensure that all stakeholders have the same expectations and that the delivered functionality aligns with business objectives.
+
+### 🛒 Example: Checkout Feature in a Booking Management System
+
+**User Story:**
+> As a user, I want to complete a booking checkout so that I can confirm and pay for my reservation.
+
+**Acceptance Criteria:**
+- The user must be able to review the booking details before confirming.
+- The system must calculate and display the total cost, including taxes and discounts.
+- The checkout page must include secure payment options (e.g., credit card, PayPal).
+- The system must validate payment information before processing
