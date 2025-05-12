@@ -35,3 +35,28 @@ Identifying and resolving issues during the requirement phase is far more cost-e
 Well-defined requirements serve as the foundation for design, development, and testing. They enable accurate project planning, improve test coverage, and help ensure that the final software is robust, efficient, and fit for purpose.
 
 Effective Requirement Analysis directly impacts the success of a software project by promoting clarity, efficiency, and high quality throughout the development process.
+## 🧩 Key Activities in Requirement Analysis
+
+Requirement Analysis involves several structured activities that help ensure the system being built meets stakeholder needs. Below are the five key activities involved:
+
+- **Requirement Gathering**
+  - Collect raw information about the business needs from stakeholders.
+  - Understand the high-level goals and context of the project.
+
+- **Requirement Elicitation**
+  - Use techniques such as interviews, surveys, brainstorming sessions, observations, and workshops to uncover detailed requirements.
+  - Engage with stakeholders to clarify and expand on gathered information.
+
+- **Requirement Documentation**
+  - Organize and record the gathered and elicited requirements in a clear, structured format.
+  - Common documentation includes Software Requirements Specification (SRS), user stories, and use cases.
+
+- **Requirement Analysis and Modeling**
+  - Analyze the requirements for feasibility, consistency, completeness, and correctness.
+  - Use models such as data flow diagrams (DFDs), entity-relationship diagrams (ERDs), and use case diagrams to visualize and understand the system.
+
+- **Requirement Validation**
+  - Verify that the documented requirements accurately represent stakeholder needs.
+  - Conduct reviews, walkthroughs, and formal inspections to ensure clarity, accuracy, and alignment with project goals.
+
+Each of these activities ensures that the requirements are well-understood, feasible, and ready to guide the design and development phases.
