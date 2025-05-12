@@ -1,0 +1,95 @@
+# Requirement Analysis
+
+## What is Requirement Analysis?
+
+Requirement Analysis is the process of understanding, documenting, and managing the needs and requirements of stakeholders for a system or software application. It serves as a foundation for the design, development, and implementation phases of the software development lifecycle (SDLC). The objective is to ensure that the system meets user expectations and business goals by clearly defining what the software should do.
+
+---
+
+## Why is Requirement Analysis Important?
+
+Requirement Analysis is a vital phase in the SDLC for the following reasons:
+
+1. **Reduces Development Errors**
+   - Clearly defined requirements help prevent misunderstandings and misinterpretations that can lead to software bugs or failure.
+
+2. **Saves Time and Cost**
+   - Detecting and resolving issues early during the analysis phase is significantly cheaper than fixing them during development or after deployment.
+
+3. **Improves Communication**
+   - Provides a common understanding between stakeholders (clients, developers, testers) through structured documentation and models.
+
+---
+
+## Key Activities in Requirement Analysis
+
+- **Requirement Gathering**
+  - Collecting information from stakeholders through interviews, surveys, and observation.
+
+- **Requirement Elicitation**
+  - Uncovering the actual needs and expectations of users, often involving clarification and exploration techniques.
+
+- **Requirement Documentation**
+  - Capturing requirements in formal documentation such as Software Requirement Specifications (SRS).
+
+- **Requirement Analysis and Modeling**
+  - Analyzing feasibility, consistency, and completeness; representing requirements using models like flowcharts, ER diagrams, or use cases.
+
+- **Requirement Validation**
+  - Ensuring that documented requirements accurately reflect the stakeholder needs and are feasible for implementation.
+
+---
+
+## Types of Requirements
+
+### Functional Requirements
+
+Functional Requirements describe what the system should do.
+
+**Examples for the Booking Management Project:**
+- Users must be able to create, update, and cancel bookings.
+- The system should send confirmation emails after successful booking.
+- Admins must have the ability to view all bookings.
+
+### Non-functional Requirements
+
+Non-functional Requirements describe how the system should perform.
+
+**Examples for the Booking Management Project:**
+- The booking system should support up to 1000 concurrent users.
+- System availability must be at least 99.9% uptime.
+- Response time for booking confirmation must be less than 2 seconds.
+
+---
+
+## Use Case Diagrams
+
+Use Case Diagrams visually represent the interactions between users (actors) and the system’s functionalities (use cases). They help clarify requirements and outline the system’s expected behavior.
+
+**Benefits:**
+- Provide a clear and concise overview of system functionality.
+- Facilitate communication among stakeholders.
+- Help identify system boundaries and user roles.
+
+![Use Case Diagram for Booking System](./alx-booking-uc.png)
+
+---
+
+## Acceptance Criteria
+
+Acceptance Criteria define the conditions under which a software feature is considered complete and acceptable to stakeholders. They guide development, testing, and validation processes.
+
+**Importance:**
+- Set clear expectations.
+- Ensure requirements are testable and measurable.
+- Prevent scope creep by clearly defining the boundaries of a feature.
+
+**Example – Checkout Feature in Booking Management System:**
+
+- User must be able to review booking summary before payment.
+- Payment should be processed securely using integrated gateway.
+- Booking confirmation must be displayed and emailed after payment.
+- The system must validate input fields before proceeding to payment.
+
+---
+
