@@ -103,4 +103,5 @@ Well-written acceptance criteria help ensure that all stakeholders have the same
 - The user must be able to review the booking details before confirming.
 - The system must calculate and display the total cost, including taxes and discounts.
 - The checkout page must include secure payment options (e.g., credit card, PayPal).
+![download](https://github.com/user-attachments/assets/89c8a6e9-f594-475e-89ec-e2274052643b)
 - The system must validate payment information before processing
