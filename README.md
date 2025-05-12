@@ -60,3 +60,24 @@ Requirement Analysis involves several structured activities that help ensure the
   - Conduct reviews, walkthroughs, and formal inspections to ensure clarity, accuracy, and alignment with project goals.
 
 Each of these activities ensures that the requirements are well-understood, feasible, and ready to guide the design and development phases.
+## 📂 Types of Requirements
+
+In software engineering, requirements are broadly categorized into two types: **Functional Requirements** and **Non-functional Requirements**. Both are essential for delivering a complete and reliable software solution.
+
+### 🔧 Functional Requirements
+
+Functional requirements define the specific behaviors, functions, or features that the system must perform. These describe **what** the system should do.
+
+**Examples for a Booking Management Project:**
+- Users should be able to **search for available slots or rooms** by date, time, and location.
+- The system must **allow users to create, update, and cancel bookings**.
+- Admins should be able to **manage user accounts and booking inventory**.
+- The application must **send confirmation emails** after a successful booking.
+- The system should **display real-time availability** of resources.
+
+### ⚙️ Non-functional Requirements
+
+Non-functional requirements specify the **quality attributes** of the system. They describe **how** the system performs its functions and address performance, usability, reliability, and more.
+
+**Examples for a Booking Management Project:**
+- The system should be
